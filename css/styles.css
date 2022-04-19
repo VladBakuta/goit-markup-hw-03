@@ -188,6 +188,9 @@ button {
 
 .section-text {
   margin-bottom: 30px;
+  max-width: 696px;
+  margin-right: auto;
+  margin-left: auto;
 
   font-weight: 900;
   font-size: 44px;
@@ -430,6 +433,8 @@ button {
   margin-bottom: 4px;
 
   letter-spacing: 0.06em;
+
+  color: var(--axcent-color);
 }
 
 .projects-text {
